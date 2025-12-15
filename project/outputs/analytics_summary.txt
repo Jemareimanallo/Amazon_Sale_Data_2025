@@ -1,0 +1,61 @@
+Amazon Sales 2025 Analytics Summary
+
+1️⃣ Descriptive Analytics (What happened?)
+
+Total Orders: 250
+Total Sales: $0.00
+Average Order Value: $0.00
+
+Orders by Category:
+
+Electronics: 118 orders
+Home Appliances: 40 orders
+Clothing: 40 orders
+Footwear: 27 orders
+Books: 25 orders
+
+Orders by Status:
+
+Completed: 88
+Pending: 85
+Cancelled: 77
+
+Suggested Charts:
+Sales over time (line chart by Date)
+Sales by category (bar chart)
+Orders by status (pie chart)
+
+2️⃣ Diagnostic Analytics (Why did it happen?)
+
+Cancellation Analysis:
+
+Most cancelled orders in Electronics: 33
+Most cancelled orders in Home Appliances: 16
+Most cancelled orders in Clothing: 13
+Most cancelled orders in Footwear: 8
+Most cancelled orders in Books: 7
+
+Suggested Insights & Charts:
+Cancellation rate per payment method
+Average order size for cancelled vs completed orders
+Pending orders by city & product
+
+3️⃣ Predictive Analytics (What will happen?)
+
+Forecast & predictive insights (based on historical trends and predictions):
+- Electronics and Home Appliances expected to remain highest revenue generators.
+- Orders in March 2025 likely to peak, especially Electronics and Footwear.
+- Customers with past cancellations more likely to cancel again.
+
+Potential Predictive Metrics:
+- Probability of order completion based on Product Category, Payment Method, Customer Location
+- Forecast monthly sales for top categories
+
+4️⃣ Prescriptive Analytics (What should we do?)
+
+Recommendations:
+- Reduce Cancellations: Focus on high-cancellation products, encourage safer payment methods
+- Inventory Management: Stock more Electronics and Home Appliances during peak months
+- Customer Targeting: Incentivize repeat purchases for top customers
+- Operational Suggestions: Monitor pending orders, offer discounts for slow-moving products
+
